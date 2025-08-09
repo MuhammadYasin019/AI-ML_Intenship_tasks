@@ -13,7 +13,7 @@ The objective of this project is to explore and visualize the famous Iris datase
 ## **Dataset Description**
 
 * **Name:** Iris Dataset
-* **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
+* **Source:** Dataset downloaded from Kaggle.
 * **Number of Instances:** 150
 * **Number of Features:** 4 numerical (Sepal Length, Sepal Width, Petal Length, Petal Width) and 1 categorical (Species)
 * **Number of Classes:** 3 (Setosa, Versicolor, Virginica)
